@@ -1,0 +1,11 @@
+C:\Education\.Net_Course\Ignore2\Ignore2\bin\Debug\netcoreapp2.1\Ignore2.deps.json
+C:\Education\.Net_Course\Ignore2\Ignore2\bin\Debug\netcoreapp2.1\Ignore2.runtimeconfig.json
+C:\Education\.Net_Course\Ignore2\Ignore2\bin\Debug\netcoreapp2.1\Ignore2.runtimeconfig.dev.json
+C:\Education\.Net_Course\Ignore2\Ignore2\bin\Debug\netcoreapp2.1\Ignore2.dll
+C:\Education\.Net_Course\Ignore2\Ignore2\bin\Debug\netcoreapp2.1\Ignore2.pdb
+C:\Education\.Net_Course\Ignore2\Ignore2\obj\Debug\netcoreapp2.1\Ignore2.csprojAssemblyReference.cache
+C:\Education\.Net_Course\Ignore2\Ignore2\obj\Debug\netcoreapp2.1\Ignore2.csproj.CoreCompileInputs.cache
+C:\Education\.Net_Course\Ignore2\Ignore2\obj\Debug\netcoreapp2.1\Ignore2.AssemblyInfoInputs.cache
+C:\Education\.Net_Course\Ignore2\Ignore2\obj\Debug\netcoreapp2.1\Ignore2.AssemblyInfo.cs
+C:\Education\.Net_Course\Ignore2\Ignore2\obj\Debug\netcoreapp2.1\Ignore2.dll
+C:\Education\.Net_Course\Ignore2\Ignore2\obj\Debug\netcoreapp2.1\Ignore2.pdb
