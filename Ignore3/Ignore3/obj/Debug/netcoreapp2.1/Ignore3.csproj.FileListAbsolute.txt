@@ -1,0 +1,11 @@
+C:\Education\.Net_Course\Ignore3\Ignore3\bin\Debug\netcoreapp2.1\Ignore3.deps.json
+C:\Education\.Net_Course\Ignore3\Ignore3\bin\Debug\netcoreapp2.1\Ignore3.runtimeconfig.json
+C:\Education\.Net_Course\Ignore3\Ignore3\bin\Debug\netcoreapp2.1\Ignore3.runtimeconfig.dev.json
+C:\Education\.Net_Course\Ignore3\Ignore3\bin\Debug\netcoreapp2.1\Ignore3.dll
+C:\Education\.Net_Course\Ignore3\Ignore3\bin\Debug\netcoreapp2.1\Ignore3.pdb
+C:\Education\.Net_Course\Ignore3\Ignore3\obj\Debug\netcoreapp2.1\Ignore3.csprojAssemblyReference.cache
+C:\Education\.Net_Course\Ignore3\Ignore3\obj\Debug\netcoreapp2.1\Ignore3.csproj.CoreCompileInputs.cache
+C:\Education\.Net_Course\Ignore3\Ignore3\obj\Debug\netcoreapp2.1\Ignore3.AssemblyInfoInputs.cache
+C:\Education\.Net_Course\Ignore3\Ignore3\obj\Debug\netcoreapp2.1\Ignore3.AssemblyInfo.cs
+C:\Education\.Net_Course\Ignore3\Ignore3\obj\Debug\netcoreapp2.1\Ignore3.dll
+C:\Education\.Net_Course\Ignore3\Ignore3\obj\Debug\netcoreapp2.1\Ignore3.pdb
