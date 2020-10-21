@@ -1,0 +1,11 @@
+C:\Education\.Net_Course\Ignore5\Ignore5\bin\Debug\netcoreapp2.1\Ignore5.deps.json
+C:\Education\.Net_Course\Ignore5\Ignore5\bin\Debug\netcoreapp2.1\Ignore5.runtimeconfig.json
+C:\Education\.Net_Course\Ignore5\Ignore5\bin\Debug\netcoreapp2.1\Ignore5.runtimeconfig.dev.json
+C:\Education\.Net_Course\Ignore5\Ignore5\bin\Debug\netcoreapp2.1\Ignore5.dll
+C:\Education\.Net_Course\Ignore5\Ignore5\bin\Debug\netcoreapp2.1\Ignore5.pdb
+C:\Education\.Net_Course\Ignore5\Ignore5\obj\Debug\netcoreapp2.1\Ignore5.csprojAssemblyReference.cache
+C:\Education\.Net_Course\Ignore5\Ignore5\obj\Debug\netcoreapp2.1\Ignore5.csproj.CoreCompileInputs.cache
+C:\Education\.Net_Course\Ignore5\Ignore5\obj\Debug\netcoreapp2.1\Ignore5.AssemblyInfoInputs.cache
+C:\Education\.Net_Course\Ignore5\Ignore5\obj\Debug\netcoreapp2.1\Ignore5.AssemblyInfo.cs
+C:\Education\.Net_Course\Ignore5\Ignore5\obj\Debug\netcoreapp2.1\Ignore5.dll
+C:\Education\.Net_Course\Ignore5\Ignore5\obj\Debug\netcoreapp2.1\Ignore5.pdb
